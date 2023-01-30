@@ -15,6 +15,8 @@ public class LuyenGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        var f = new Windowmain();
+        f.setVisible(true);
     }
     
 }
